@@ -1,0 +1,69 @@
+#content {
+	text-align: center;
+	padding-top: 25%;
+	color: white;
+
+
+}
+body{
+	background: url(https://images.unsplash.com/photo-1449158672805-f0deda6782ec?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b2f894314238c035a86957377bb53418&auto=format&fit=crop&w=667&q=80), #000;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+
+}
+
+body, html{
+	width: 100%;
+	height: 100%
+}
+hr{
+	width: 60%
+}
+
+h1{
+	font-size: 5em;
+	font-weight: 700;
+	text-align: center;
+	font-family:'Cormorant Garamond', serif;
+}
+h3{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 2em;
+	text-align: left;
+
+}
+
+.info{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 2em;
+	
+}
+#particles-js {
+	width:100%;
+	height:100%;
+	position:fixed;
+	background:rgba(0,0,0,.4);
+}
+
+header {
+	position: relative;
+	height:auto;
+}
+
+.navbar-inverse {
+	background:rgba(0,0,0,.7);
+	overflow: hidden;
+}
+.jumbotron{
+	background: rgba(0,0,0,.7);
+	margin-top: 70px;
+	color: #fff;
+	position: relative;
+}
+.img-circle{
+	width: 60px;
+	height: 60px;
+	-webkit-filter: brightness(200%);
+	filter: brightness(200%);
+}

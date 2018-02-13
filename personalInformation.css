@@ -1,0 +1,57 @@
+#content {
+	text-align: center;
+	padding-top: 25%;
+	color: white;
+
+
+}
+body{
+	background: url(https://images.unsplash.com/photo-1506440885189-ba4072a9305f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9487c29247a83a38ce845ffa6610407a&auto=format&fit=crop&w=750&q=80), #000;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+
+}
+
+body, html{
+	width: 100%;
+	height: 100%
+}
+hr{
+	width: 60%
+}
+
+h1{
+	font-size: 5em;
+	font-weight: 700;
+	text-align: center;
+	font-family:'Cormorant Garamond', serif;;
+}
+
+.info{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 2em;
+	
+}
+#particles-js {
+	width:100%;
+	height:100%;
+	position:fixed;
+	background:rgba(0,0,0,.4);
+}
+
+header {
+	position: relative;
+	height:auto;
+}
+
+.navbar-inverse {
+	background:rgba(0,0,0,.7);
+	overflow: hidden;
+}
+.jumbotron{
+	background: rgba(0,0,0,.7);
+	margin-top: 70px;
+	color: #fff;
+	position: relative;
+}
