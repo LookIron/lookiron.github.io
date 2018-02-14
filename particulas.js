@@ -10,8 +10,8 @@ $(document).ready(function(){
 particlesJS('particles-js', {
   particles: {
     color: '#fff',
-    color_random: false,
-    shape: 'triangle', // "circle", "edge" or "triangle"
+    color_random: true,
+    shape: 'circle', // "circle", "edge" or "triangle"
     opacity: {
       opacity: 1,
       anim: {
