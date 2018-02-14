@@ -21,7 +21,7 @@ particlesJS('particles-js', {
         sync: false
       }
     },
-    size: 4,
+    size: 6,
     size_random: true,
     nb: 150,
     line_linked: {
