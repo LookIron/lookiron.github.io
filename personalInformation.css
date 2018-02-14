@@ -31,6 +31,7 @@ h1{
 .info{
 	font-family: 'Cormorant Garamond', serif;
 	font-size: 2em;
+	margin-top: 70px;
 	
 }
 #particles-js {
@@ -54,4 +55,10 @@ header {
 	margin-top: 70px;
 	color: #fff;
 	position: relative;
+}
+.img-circle{
+	width: 200px;
+	height: 250px;
+	margin-top: 50px;
+
 }
